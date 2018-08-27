@@ -1,0 +1,11 @@
+C:\Users\natas\workspace\csharp\exercises\sets\bin\Debug\netcoreapp2.1\sets.deps.json
+C:\Users\natas\workspace\csharp\exercises\sets\bin\Debug\netcoreapp2.1\sets.runtimeconfig.json
+C:\Users\natas\workspace\csharp\exercises\sets\bin\Debug\netcoreapp2.1\sets.runtimeconfig.dev.json
+C:\Users\natas\workspace\csharp\exercises\sets\bin\Debug\netcoreapp2.1\sets.dll
+C:\Users\natas\workspace\csharp\exercises\sets\bin\Debug\netcoreapp2.1\sets.pdb
+C:\Users\natas\workspace\csharp\exercises\sets\obj\Debug\netcoreapp2.1\sets.csprojAssemblyReference.cache
+C:\Users\natas\workspace\csharp\exercises\sets\obj\Debug\netcoreapp2.1\sets.csproj.CoreCompileInputs.cache
+C:\Users\natas\workspace\csharp\exercises\sets\obj\Debug\netcoreapp2.1\sets.AssemblyInfoInputs.cache
+C:\Users\natas\workspace\csharp\exercises\sets\obj\Debug\netcoreapp2.1\sets.AssemblyInfo.cs
+C:\Users\natas\workspace\csharp\exercises\sets\obj\Debug\netcoreapp2.1\sets.dll
+C:\Users\natas\workspace\csharp\exercises\sets\obj\Debug\netcoreapp2.1\sets.pdb
